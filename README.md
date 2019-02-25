@@ -4,7 +4,7 @@ Deep Learning Project to classify Images using PyTorch, Neural nets, GD, and tra
 ## Part 1: ImageClassifierProject.ipynb
 Contents: 
 - Introduce, load and preprocess image dataset
--- `transforms.`, `ImageFolder`, `Dataloader`
+- `transforms.`, `ImageFolder`, `Dataloader`
 - Label mapping  
  - Building and training the classifier
   - Function to build a Neural Network and use pretrained model (e.g. vgg16, densenet121).
